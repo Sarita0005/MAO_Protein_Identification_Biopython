@@ -1,0 +1,6 @@
+BLASTP was performed against the nr database.
+Top hit: Monoamine oxidase B (Homo sapiens)
+Identity: 100%
+E-value: 0.0
+Alignment coverage: Full length (520 aa)
+Conclusion: Extracted protein corresponds to MAO-B.
