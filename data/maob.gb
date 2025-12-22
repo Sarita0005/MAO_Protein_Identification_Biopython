@@ -1,1 +1,298 @@
+LOCUS       NM_000898               2570 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens monoamine oxidase B (MAOB), mRNA.
+ACCESSION   NM_000898
+VERSION     NM_000898.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2570)
+  AUTHORS   Qi,Y., Shao,W., Gao,J., Ni,N., Xue,F., Wang,T., Wang,Y., Fan,Y. and
+            Yuan,H.
+  TITLE     Monoamine oxidase B inhibits epithelial-mesenchymal transition and
+            trigger apoptosis via targeting ERK1/2 signaling pathway in head
+            and neck squamous cell carcinoma
+  JOURNAL   Head Neck 46 (8), 2031-2041 (2024)
+   PUBMED   38379404
+  REMARK    GeneRIF: Monoamine oxidase B inhibits epithelial-mesenchymal
+            transition and trigger apoptosis via targeting ERK1/2 signaling
+            pathway in head and neck squamous cell carcinoma.
+REFERENCE   2  (bases 1 to 2570)
+  AUTHORS   Huang,H.C., Hsieh,Y.H., Hsiao,C.H., Lin,C.Y., Wang,S.S., Ho,K.H.,
+            Chang,L.C., Huang,H.M., Yang,S.F. and Chien,M.H.
+  TITLE     MAOB expression correlates with a favourable prognosis in prostate
+            cancer, and its genetic variants are associated with the metastasis
+            of the disease
+  JOURNAL   J Cell Mol Med 28 (8), e18229 (2024)
+   PUBMED   38520217
+  REMARK    GeneRIF: MAOB expression correlates with a favourable prognosis in
+            prostate cancer, and its genetic variants are associated with the
+            metastasis of the disease.
+REFERENCE   3  (bases 1 to 2570)
+  AUTHORS   Pu,T., Wang,J., Wei,J., Zeng,A., Zhang,J., Chen,J., Yin,L., Li,J.,
+            Lin,T.P., Melamed,J., Corey,E., Gao,A.C. and Wu,B.J.
+  TITLE     Stromal-derived MAOB promotes prostate cancer growth and
+            progression
+  JOURNAL   Sci Adv 10 (6), eadi4935 (2024)
+   PUBMED   38335292
+  REMARK    GeneRIF: Stromal-derived MAOB promotes prostate cancer growth and
+            progression.
+REFERENCE   4  (bases 1 to 2570)
+  AUTHORS   Konjevod,M., Sreter,K.B., Popovic-Grle,S., Lampalo,M., Tudor,L.,
+            Jukic,I., Nedic Erjavec,G., Bingulac-Popovic,J., Safic Stanic,H.,
+            Nikolac Perkovic,M., Markeljevic,J., Samarzija,M., Pivac,N. and
+            Svob Strac,D.
+  TITLE     Platelet Serotonin (5-HT) Concentration, Platelet Monoamine Oxidase
+            B (MAO-B) Activity and HTR2A, HTR2C, and MAOB Gene Polymorphisms in
+            Asthma
+  JOURNAL   Biomolecules 13 (5), 800 (2023)
+   PUBMED   37238670
+  REMARK    GeneRIF: Platelet Serotonin (5-HT) Concentration, Platelet
+            Monoamine Oxidase B (MAO-B) Activity and HTR2A, HTR2C, and MAOB
+            Gene Polymorphisms in Asthma.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 2570)
+  AUTHORS   O'Higgins,M., Benito,A., Real-Lopez,M., Gil-Miravet,I., Ochoa,E.
+            and Haro,G.
+  TITLE     Relationship of DRD5 and MAO-B VNTR polymorphisms with paranoid and
+            antisocial personality disorders in polydrug users
+  JOURNAL   Personal Ment Health 17 (1), 77-86 (2023)
+   PUBMED   35961947
+  REMARK    GeneRIF: Relationship of DRD5 and MAO-B VNTR polymorphisms with
+            paranoid and antisocial personality disorders in polydrug users.
+REFERENCE   6  (bases 1 to 2570)
+  AUTHORS   Zhu,Q.S., Grimsby,J., Chen,K. and Shih,J.C.
+  TITLE     Promoter organization and activity of human monoamine oxidase (MAO)
+            A and B genes
+  JOURNAL   J Neurosci 12 (11), 4437-4446 (1992)
+   PUBMED   1432104
+REFERENCE   7  (bases 1 to 2570)
+  AUTHORS   Grimsby,J., Chen,K., Wang,L.J., Lan,N.C. and Shih,J.C.
+  TITLE     Human monoamine oxidase A and B genes exhibit identical exon-intron
+            organization
+  JOURNAL   Proc Natl Acad Sci U S A 88 (9), 3637-3641 (1991)
+   PUBMED   2023912
+REFERENCE   8  (bases 1 to 2570)
+  AUTHORS   Bach,A.W., Lan,N.C., Johnson,D.L., Abell,C.W., Bembenek,M.E.,
+            Kwan,S.W., Seeburg,P.H. and Shih,J.C.
+  TITLE     cDNA cloning of human liver monoamine oxidase A and B: molecular
+            basis of differences in enzymatic properties
+  JOURNAL   Proc Natl Acad Sci U S A 85 (13), 4934-4938 (1988)
+   PUBMED   3387449
+REFERENCE   9  (bases 1 to 2570)
+  AUTHORS   Kochersperger,L.M., Parker,E.L., Siciliano,M., Darlington,G.J. and
+            Denney,R.M.
+  TITLE     Assignment of genes for human monoamine oxidases A and B to the X
+            chromosome
+  JOURNAL   J Neurosci Res 16 (4), 601-616 (1986)
+   PUBMED   3540317
+REFERENCE   10 (bases 1 to 2570)
+  AUTHORS   Pearce,L.B. and Roth,J.A.
+  TITLE     Human brain monoamine oxidase type B: mechanism of deamination as
+            probed by steady-state methods
+  JOURNAL   Biochemistry 24 (8), 1821-1826 (1985)
+   PUBMED   4016087
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DC326844.1, M69177.1,
+            BM726427.1 and AL133791.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_000898.4.
+            
+            Summary: The protein encoded by this gene belongs to the flavin
+            monoamine oxidase family. It is a enzyme located in the
+            mitochondrial outer membrane. It catalyzes the oxidative
+            deamination of biogenic and xenobiotic amines and plays an
+            important role in the metabolism of neuroactive and vasoactive
+            amines in the central nervous sysytem and peripheral tissues. This
+            protein preferentially degrades benzylamine and phenylethylamine.
+            [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK312679.1, BC022494.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            gene product(s) localized to mito. :: reported by MitoCarta
+            MANE Ensembl match                 :: ENST00000378069.5/
+                                                  ENSP00000367309.4
+            RefSeq Select criteria             :: based on conservation,
+                                                  expression, longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-74                DC326844.1         26-99
+            75-1785             M69177.1           1-1711
+            1786-2415           BM726427.1         35-664
+            2416-2570           AL133791.1         277-431
+FEATURES             Location/Qualifiers
+     source          1..2570
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xp11.3"
+     gene            1..2570
+                     /gene="MAOB"
+                     /note="monoamine oxidase B"
+                     /db_xref="GeneID:4129"
+                     /db_xref="HGNC:HGNC:6834"
+                     /db_xref="MIM:309860"
+     exon            1..197
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    5..7
+                     /gene="MAOB"
+                     /note="upstream in-frame stop codon"
+     CDS             152..1714
+                     /gene="MAOB"
+                     /EC_number="1.4.3.4"
+                     /EC_number="1.4.3.21"
+                     /note="MAO, platelet; MAO, brain; tyramine oxidase;
+                     adrenalin oxidase; MAO-B; monoamine oxidase type B"
+                     /codon_start=1
+                     /product="amine oxidase [flavin-containing] B"
+                     /protein_id="NP_000889.3"
+                     /db_xref="CCDS:CCDS14261.1"
+                     /db_xref="GeneID:4129"
+                     /db_xref="HGNC:HGNC:6834"
+                     /db_xref="MIM:309860"
+                     /translation="MSNKCDVVVVGGGISGMAAAKLLHDSGLNVVVLEARDRVGGRTY
+                     TLRNQKVKYVDLGGSYVGPTQNRILRLAKELGLETYKVNEVERLIHHVKGKSYPFRGP
+                     FPPVWNPITYLDHNNFWRTMDDMGREIPSDAPWKAPLAEEWDNMTMKELLDKLCWTES
+                     AKQLATLFVNLCVTAETHEVSALWFLWYVKQCGGTTRIISTTNGGQERKFVGGSGQVS
+                     ERIMDLLGDRVKLERPVIYIDQTRENVLVETLNHEMYEAKYVISAIPPTLGMKIHFNP
+                     PLPMMRNQMITRVPLGSVIKCIVYYKEPFWRKKDYCGTMIIDGEEAPVAYTLDDTKPE
+                     GNYAAIMGFILAHKARKLARLTKEERLKKLCELYAKVLGSLEALEPVHYEEKNWCEEQ
+                     YSGGCYTTYFPPGILTQYGRVLRQPVDRIYFAGTETATHWSGYMEGAVEAGERAAREI
+                     LHAMGKIPEDEIWQSEPESVDVPAQPITTTFLERHLPSVPGLLRLIGLTTIFSATALG
+                     FLAHKRGLLVRV"
+     misc_feature    155..157
+                     /gene="MAOB"
+                     /note="N-acetylserine.
+                     /evidence=ECO:0000269|PubMed:11049757; propagated from
+                     UniProtKB/Swiss-Prot (P27338.3); acetylation site"
+     misc_feature    305..307
+                     /gene="MAOB"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q8BW75; propagated from
+                     UniProtKB/Swiss-Prot (P27338.3); acetylation site"
+     misc_feature    617..619
+                     /gene="MAOB"
+                     /note="Important for catalytic activity; propagated from
+                     UniProtKB/Swiss-Prot (P27338.3); other site"
+     misc_feature    1244..1246
+                     /gene="MAOB"
+                     /note="Important for catalytic activity; propagated from
+                     UniProtKB/Swiss-Prot (P27338.3); other site"
+     misc_feature    1295..1297
+                     /gene="MAOB"
+                     /note="Important for catalytic activity; propagated from
+                     UniProtKB/Swiss-Prot (P27338.3); other site"
+     misc_feature    1619..1699
+                     /gene="MAOB"
+                     /note="propagated from UniProtKB/Swiss-Prot (P27338.3);
+                     transmembrane region"
+     exon            198..292
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            293..430
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            431..535
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            536..627
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            628..769
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            770..919
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            920..1079
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1080..1176
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1177..1230
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1231..1288
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1289..1386
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1387..1498
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1499..1561
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1562..2570
+                     /gene="MAOB"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2550..2555
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MAOB"
+                     /note="hexamer: AATAAA"
+     polyA_site      2570
+                     /gene="MAOB"
+                     /note="major polyA site"
+ORIGIN      
+        1 aatatagcgg ctcgccgagg cgctggtgca cgggggcagc gcgcagcagg ccggcgggca
+       61 ggcgggcggg ctggctggca ggcaggactg ggatcgaggc ccagaaaacg gagcagcggg
+      121 caccagggag gcctggaacg gggcgagcgc catgagcaac aaatgcgacg tggtcgtggt
+      181 ggggggcggc atctcaggta tggcagcagc caaacttctg catgactctg gactgaatgt
+      241 ggttgttctg gaagcccggg accgtgtggg aggcaggact tacactctta ggaaccaaaa
+      301 ggttaaatat gtggaccttg gaggatccta tgttggacca acccagaatc gtatcttgag
+      361 attagccaag gagctaggat tggagaccta caaagtgaat gaggttgagc gtctgatcca
+      421 ccatgtaaag ggcaaatcat accccttcag ggggccattc ccacctgtat ggaatccaat
+      481 tacctactta gatcataaca acttttggag gacaatggat gacatggggc gagagattcc
+      541 gagtgatgcc ccatggaagg ctccccttgc agaagagtgg gacaacatga caatgaagga
+      601 gctactggac aagctctgct ggactgaatc tgcaaagcag cttgccactc tctttgtgaa
+      661 cctgtgtgtc actgcagaga cccatgaggt ctctgctctc tggttcctgt ggtatgtgaa
+      721 gcagtgtgga ggcacaacaa gaatcatctc gacaacaaat ggaggacagg agaggaaatt
+      781 tgtgggcgga tctggtcaag tgagtgagcg gataatggac ctccttggag accgagtgaa
+      841 gctggagagg cctgtgatct acattgacca gacaagagaa aatgtccttg tggagaccct
+      901 aaaccatgag atgtatgagg ctaaatatgt gattagtgct attcctccta ctctgggcat
+      961 gaagattcac ttcaatcccc ctctgccaat gatgagaaac cagatgatca ctcgtgtgcc
+     1021 tttgggttca gtcatcaagt gtatagttta ttataaagag cctttctgga ggaaaaagga
+     1081 ttactgtgga accatgatta ttgatggaga agaagctcca gttgcctaca cgttggatga
+     1141 taccaaacct gaaggcaact atgctgccat aatgggattt atcctggccc acaaagccag
+     1201 aaaactggca cgtcttacca aagaggaaag gttgaagaaa ctttgtgaac tctatgccaa
+     1261 ggttctgggt tccctagaag ctctggagcc agtgcattat gaagaaaaga actggtgtga
+     1321 ggagcagtac tctgggggct gctacacaac ttatttcccc cctgggatcc tgactcaata
+     1381 tggaagggtt ctacgccagc cagtggacag gatttacttt gcaggcaccg agactgccac
+     1441 acactggagc ggctacatgg agggggctgt agaggccggg gagagagcag cccgagagat
+     1501 cctgcatgcc atggggaaga ttccagagga tgaaatctgg cagtcagaac cagagtctgt
+     1561 ggatgtccct gcacagccca tcaccaccac ctttttggag agacatttgc cctccgtgcc
+     1621 aggcctgctc aggctgattg gattgaccac catcttttca gcaacggctc ttggcttcct
+     1681 ggcccacaaa agggggctac ttgtgagagt ctaaagagag agggtgtctg taatcacact
+     1741 ctcttcttac tgtatttggg atatgagttt ggggaaagag ttgcagtaaa gttccatgaa
+     1801 gacaaatagt gtggagtgag gcggggagca tgaagataaa tccaactctg actgtaaaat
+     1861 acatggtatc tctttctccg ttgtggcccc tgcttagtgt cccttacctg gcttagcgtt
+     1921 ctgtttcacc agtttccaag tttattgccc tcaaaatctt tagaatagtt aaattggctt
+     1981 gtttaaggtt cttgctgccc cacaacacac cttgcccatg cacaaggaat gaattttttc
+     2041 ctaccattat ggctttgtgc ttgttcttcc tcttacctgt aatagcctca ccttccctag
+     2101 ttctttgcat tcgtccttag aatactgtat tgttacagct gaaagacagt aaagaccatt
+     2161 tagtcctcac cttctgtttt agagttgagc aaactgaagc ccacagaggt ggaacttaat
+     2221 tacctaagag ccacaataag ccactggtat ctgggggact agaacacaaa tccaacgctt
+     2281 ttcccacctc tttggatgtt ttccccaatt atcctccttc actccctgtc atagttaccg
+     2341 atggtgtccc gttgtgtggg tttactctgt gctaagttgt cttacacttc tcaaatgcta
+     2401 ctcagtatat agccttaagt cttactgttt tgtgcggtgt gtctccagct gattttaact
+     2461 tttttgatgg tagaaatttt atctcttctt ccttttgtat cctccattgt atcttcatac
+     2521 aaaggacagt acacacttgg gtaattaaaa ataaaagttg attgaccata
+//
 
