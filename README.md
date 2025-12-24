@@ -1,4 +1,4 @@
-# MAO_Protein_Identification_Biopython
+# Genomic-and-Protein-Sequence-Analysis/
 MAO Protein Identification and Validation using Biopython and BLASTP
 # Overview
 This project demonstrates a professional bioinformatics workflow involving gene annotation parsing, protein sequence extraction, and functional validation using BLAST.
